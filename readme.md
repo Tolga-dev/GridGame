@@ -1,3 +1,3 @@
 # Basic Game Simulation for fun
 
-bocek koycam bok koyarak ilerlicek atesten kacacak
+its made in 1 hour 5 min with no reason, have fun
